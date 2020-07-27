@@ -1,0 +1,5 @@
+net\togogo\mapper\UserMapper.class
+net\togogo\controller\UserController.class
+net\togogo\service\UserServiceImp.class
+net\togogo\bean\User.class
+net\togogo\service\UserService.class
