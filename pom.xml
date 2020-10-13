@@ -18,7 +18,7 @@
     <maven.compiler.source>1.8</maven.compiler.source>
     <maven.compiler.target>1.8</maven.compiler.target>
     <!--定义全局版本号-->
-    <junit.version>4.12</junit.version>
+    <junit.version>4.13.1</junit.version>
     <spring.version>5.1.5.RELEASE</spring.version>
     <commons-dbcp.version>1.2.2</commons-dbcp.version>
     <commons-pool.version>1.5.4</commons-pool.version>
